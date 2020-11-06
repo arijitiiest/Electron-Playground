@@ -1,0 +1,14 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Arijit Chowdhury",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.5"
+  }
+}
